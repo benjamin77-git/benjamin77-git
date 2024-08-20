@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjamin77-git
-- 👀 I’m interested in programin
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on wed development
 - 📫 How to reach me email is m.mugishabenjamin@gmail.com
